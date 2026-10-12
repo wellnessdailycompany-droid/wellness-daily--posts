@@ -34,10 +34,14 @@ Common info keys: autoPublish true, draft false, descendants [], firstCommentTex
 - Updating a post changes its id (uuid stays); updateScheduledPost needs the full original content.
 
 ## Topics already used (do not repeat)
-sleep habits, protein+fiber breakfast, gut-friendly grocery list, walk after a meal, fibermaxxing, myth vs fact, that's so wellness, wind-down routine, welcome reel, stand up and stretch hourly, drink more water, 5-minute morning reset, snacks that satisfy, 3 colors on your plate, stress resets (breathing), meal prep in 3 steps, eat more fiber, easy food swaps, 20-20-20 eye rule, gratitude, posture check, build a habit, weekly wellness checklist, call a friend, 3 quick breakfast ideas.
-Ideas not yet used: sunlight/vitamin D basics, protein sources, healthy fats, mindful eating, screen-free hour, strength basics at home, walking meeting, lunch-break reset, sleep-friendly evening snack, hydration myths, reading before bed, declutter your space, cooking at home, plant-based swaps, label reading basics (generic, no brand names), cold-weather wellness, seasonal produce, travel wellness, desk snacks, gentle yoga stretches.
+sleep habits, protein+fiber breakfast, gut-friendly grocery list, walk after a meal, fibermaxxing, myth vs fact, that's so wellness, wind-down routine, welcome reel, stand up and stretch hourly, drink more water, 5-minute morning reset, snacks that satisfy, 3 colors on your plate, stress resets (breathing), meal prep in 3 steps, eat more fiber, easy food swaps, 20-20-20 eye rule, gratitude, posture check, build a habit, weekly wellness checklist, call a friend, 3 quick breakfast ideas, morning light basics, mindful eating, easy protein sources, screen-free hour, healthy fats, lunch-break reset, strength basics at home, read before bed, declutter your space, cook at home, plant-based swaps, desk snack (keep fruit within reach).
+Ideas not yet used: walking meeting, sleep-friendly evening snack, hydration myths, label reading basics (generic, no brand names), cold-weather wellness, seasonal produce, travel wellness, gentle yoga stretches, journaling, stairs over elevator, herbal tea swap, 5-minute breathing break.
 
 ## Do NOT
 - Post brand-name ingredient/"what's inside" content without Brad's approval (draft exists in Canva; see chat).
 - Fabricate data or sources. Do not use Instagram music (Metricool audio catalog not connected).
 - Use the rejected synth music, wide-angle/letterboxed formats, or repeat topics.
+
+## Notes
+- Pre-existing Oct 12 posts at 14:23, 16:11, 18:09 showed Metricool ERROR 'account limit' on Oct 12; check status each run. Never put spaces inside hashtags. Always close the JSON in info (ending with facebookData/instagramData/tiktokData and a closing brace).
+- Queue built through 2026-10-17 as of 2026-10-12 run.
