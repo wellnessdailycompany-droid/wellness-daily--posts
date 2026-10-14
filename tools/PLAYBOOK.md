@@ -30,6 +30,7 @@ Vary the count per post between ~11 and 30 (never always 30), relevant, no hyphe
 Common info keys: autoPublish true, draft false, descendants [], firstCommentText "", hasNotReadNotes false, media [urls], mediaAltText [..] (alt text for images), providers, publicationDate {dateTime "YYYY-MM-DDTHH:mm:ss", timezone "America/Chicago"}, shortener false, smartLinkData {ids:[]}, text.
 - IG+FB Reel: providers instagram+facebook, instagramData {type:"REEL",showReelOnFeed:true,isAiGenerated:false}, facebookData {type:"REEL",title}.
 - IG+FB post or carousel: instagramData {type:"POST",isAiGenerated:false}, facebookData {type:"POST"}.
+- **COVER RULE (never skip): every TikTok VIDEO post must include top-level `"videoCoverMilliseconds":1500` (title fully visible by then) so the cover is never blank. Every video must also show its title on frame 0 (build.py first-scene offset). After scheduling, re-read via getScheduledPosts and confirm the field is present.**
 - TikTok: providers [{network:"tiktok"}], tiktokData {title,privacyOption:"PUBLIC_TO_EVERYONE",autoAddMusic,photoCoverIndex:0}.
 - Updating a post changes its id (uuid stays); updateScheduledPost needs the full original content.
 
