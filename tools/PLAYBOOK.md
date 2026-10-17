@@ -48,3 +48,5 @@ Ideas not yet used: hydration myths, fruit-forward desserts, stretch your hands/
 - Queue built through 2026-10-20 as of 2026-10-14 run (Oct 18/19 had partial days from earlier run; completed). Note: wd_build scripts need `pip install cairosvg pillow --break-system-packages` in a fresh container; shorten/wrap long slide titles (use 2-line lists) and keep reel CTA to <=2 short lines.
 
 - 2026-10-17 run: built and scheduled Oct 21, 22, 23 (full daily mix + TikTok copies). Queue now runs through 2026-10-23. Keep a simple-post IG/FB call complete: it needs instagramData {type:POST} and facebookData {type:POST} or the JSON errors.
+
+- 2026-10-17 (evening) run: queue already complete through Oct 23, no new days needed. FOUND: TikTok PHOTO/carousel posts using PNG fail in Metricool ("image/png not allowed, use jpeg/webp"; Oct 17 14:12, 17:27, 18:26 errored). Fixed Oct 18-23 TikTok photo posts by pushing JPG copies (`slideN-tt.jpg` / `post-tt.jpg`, quality 92, RGB) and updating the posts. RULE: for every TikTok photo/carousel post, convert to JPG and use the JPG raw.githubusercontent URL (IG/FB can stay PNG). TikTok videos are unaffected.
