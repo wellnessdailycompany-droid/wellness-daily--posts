@@ -9,7 +9,11 @@ Brad (Nov 8): photos cost nothing, so every post uses Flow photos from now on, n
 3. **Carousel (11:3x, IG+FB) + TikTok copy:** photo carousel (`carousel`), all 6 slides.
 4. **Simple post (15:1x-16:2x, IG+FB) + TikTok copy:** photo post (`post`).
 Get the wording from the scheduled post's caption and alt text (alt text lists slide/tip titles); keep the same message. Tips: title <= 15 chars per line, sub lines <= 26 chars.
-Photos per day: about 2 per Reel (title/tips), 3 per carousel (cover + items), 1 for the simple post — each prompt matched to its scene. Re-use is fine (builders cycle the list).
+**A DIFFERENT photo for every scene and slide — never repeat a photo within a post or across the day (Brad, Nov 8).** Photos cost 0 credits, so generate one per scene:
+- Each Reel: 5 photos (title, tip 1, tip 2, tip 3, CTA) → `images` list of 5 in the SPEC.
+- Carousel: 6 photos (cover, 4 items, CTA) → `images` list of 6.
+- Simple post: 1 photo.
+That is about 17 photos a day. Each prompt must show that scene's own idea (e.g. tip "Pick one pan" → one skillet on a stove; tip "Chop while it heats" → hands chopping vegetables), with varied angles and settings so the set doesn't look repetitive. Before building, check the `images` lists have no duplicates. If a photo fails to generate, generate a new one; only reuse as a last resort, and say so in the summary.
 
 ## Credit rules (Flow account bradpanassow@gmail.com, Google AI Pro) — protect credits for Prime Media Marketing
 - Images (Nano Banana 2.1) cost 0 credits. Veo 3.1 Lite video = 10 credits.

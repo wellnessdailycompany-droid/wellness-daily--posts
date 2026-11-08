@@ -216,6 +216,15 @@ def carousel_slides(images, cover_lines, label, items, cta_big, cta_sub, folder)
         im.save(f'{folder}/slide{k}.png'); im.save(f'{folder}/slide{k}-tt.jpg', quality=92)
 
 
+def _unique(images, need):
+    import hashlib
+    hs = [hashlib.md5(open(i, 'rb').read()).hexdigest() for i in images]
+    if len(set(hs)) < len(hs):
+        print('WARNING: the same photo appears more than once in this post', file=sys.stderr)
+    if len(images) < need:
+        print(f'WARNING: {len(images)} photos for {need} scenes; photos will repeat', file=sys.stderr)
+
+
 if __name__ == '__main__':
     a = sys.argv[1:]
     if a[0] == 'hook':
@@ -225,6 +234,6 @@ if __name__ == '__main__':
     elif a[0] == 'cover':
         photo_cover(a[1], a[2].split('|'), a[3], a[4])
     elif a[0] == 'reel':   # reel SPEC.json OUT.mp4
-        j = json.load(open(a[1])); reel_scenes(j['images'], j['title_small'], j['title_big'], j['tips'], j['cta'], a[2])
+        j = json.load(open(a[1])); _unique(j['images'], 2 + len(j['tips'])); reel_scenes(j['images'], j['title_small'], j['title_big'], j['tips'], j['cta'], a[2])
     elif a[0] == 'carousel':   # carousel SPEC.json FOLDER
-        j = json.load(open(a[1])); carousel_slides(j['images'], j['cover'], j['label'], j['items'], j['cta_big'], j['cta_sub'], a[2])
+        j = json.load(open(a[1])); _unique(j['images'], 2 + len(j['items'])); carousel_slides(j['images'], j['cover'], j['label'], j['items'], j['cta_big'], j['cta_sub'], a[2])
