@@ -1,0 +1,72 @@
+name: Cloud media (Mac-offline fallback)
+
+# Triggered when the daily Flow-upgrade task pushes jobs/YYYY-MM-DD.json because
+# Brad's Mac was unreachable. Generates photos with the Gemini API (secret
+# GEMINI_API_KEY), builds the posts with tools/flow_upgrade.py, and pushes the
+# media plus jobs/done/YYYY-MM-DD.json. Manual run with mock=true tests the
+# pipeline with placeholder photos (no API calls, nothing committed).
+on:
+  push:
+    branches: [main]
+    paths: ['jobs/*.json']
+  workflow_dispatch:
+    inputs:
+      job:
+        description: 'Job file (e.g. jobs/2026-11-10.json)'
+        required: true
+        default: 'jobs/example.json'
+      mock:
+        description: 'Placeholder photos, no commit'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cloud-media
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ffmpeg, Pillow, Poppins
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q pillow
+          mkdir -p "$HOME/fonts"
+          for f in Bold Regular; do
+            curl -sSfL -o "$HOME/fonts/Poppins-$f.ttf" "https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-$f.ttf"
+          done
+      - name: Build pending jobs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WD_IMAGE_MODEL: ${{ vars.WD_IMAGE_MODEL }}
+          WD_MOCK: ${{ inputs.mock && '1' || '' }}
+        run: |
+          export WD_FONT_DIR="$HOME/fonts"
+          [ -z "$WD_IMAGE_MODEL" ] && unset WD_IMAGE_MODEL
+          if [ -n "${{ inputs.job }}" ]; then
+            todo="${{ inputs.job }}"
+          else
+            todo=""
+            for j in jobs/????-??-??.json; do
+              [ -e "$j" ] || continue
+              d=$(basename "$j" .json)
+              [ -e "jobs/done/$d.json" ] || todo="$todo $j"
+            done
+          fi
+          echo "jobs: $todo"
+          for j in $todo; do python3 tools/cloud_media.py "$j"; done
+      - name: Commit results
+        if: ${{ !inputs.mock }}
+        run: |
+          git config user.name "wellness-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add images videos jobs/done
+          git diff --cached --quiet && { echo "nothing to commit"; exit 0; }
+          git commit -m "Cloud media fallback: $(ls jobs/done | tail -1)"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

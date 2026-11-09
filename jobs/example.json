@@ -1,0 +1,193 @@
+{
+ "date": "2099-01-01",
+ "photos": {
+  "A1": "A finished colorful one-pan chicken and vegetable dinner in a skillet on a rustic wooden table at dusk, a small kitchen timer beside it.",
+  "A2": "Overhead view of a single empty black cast-iron skillet heating on a gas stove burner with a drizzle of olive oil.",
+  "A3": "Close-up of hands chopping zucchini and carrots on a wooden cutting board, a pan softly blurred on the stove behind.",
+  "A4": "Minimalist white kitchen counter with five fresh ingredients: a salmon fillet, a lemon, garlic, green beans and a small glass bottle of olive oil.",
+  "A5": "A cozy bowl of rice with stir-fried vegetables and shrimp with a fork on a linen napkin by a window at blue-hour evening.",
+  "B1": "An open blank notebook with a pen on a cozy bed with a knit blanket, warm bedside lamp glow at night.",
+  "B2": "Close-up of a hand writing a list in a lined journal at a wooden desk, handwriting blurred and unreadable.",
+  "B3": "Macro top-down shot of a red pen circling one line on a handwritten notepad, handwriting blurred and unreadable.",
+  "B4": "A closed leather journal with a pen on a wooden nightstand next to a steaming mug of herbal tea.",
+  "B5": "A calm, tidy bedroom at night with linen bedding, a lit candle and a small plant.",
+  "C1": "Overhead shot of a white bowl of frosty frozen mixed vegetables, peas, corn, carrots and green beans on a pale blue background.",
+  "C2": "Frozen broccoli florets poured into a hot sizzling saute pan with steam.",
+  "C3": "An open, organized home freezer drawer with clear unlabeled containers of frozen peas, berries, spinach and mixed vegetables.",
+  "C4": "A bowl of hearty vegetable soup with peas, corn, carrots and green beans, a spoon and crusty bread on a dark wooden table.",
+  "C5": "A canvas grocery tote on a kitchen counter with plain unbranded clear bags of frozen vegetables spilling out.",
+  "C6": "A colorful vegetable stir-fry with snap peas, red pepper, corn and broccoli over brown rice, overhead on slate.",
+  "P": "A plate of sunny-side-up eggs, toast and fresh berries with a cup of tea on a wooden table in cozy evening lamp light."
+ },
+ "reels": {
+  "am-dinner20": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Dinner in 20 minutes:",
+   "title_big": [
+    "3 tips"
+   ],
+   "tips": [
+    [
+     [
+      "Pick one pan"
+     ],
+     [
+      "Fewer dishes and",
+      "less cleanup."
+     ]
+    ],
+    [
+     [
+      "Chop while",
+      "it heats"
+     ],
+     [
+      "Prep as the pan",
+      "warms up."
+     ]
+    ],
+    [
+     [
+      "Keep it",
+      "simple"
+     ],
+     [
+      "A few fresh",
+      "ingredients is plenty."
+     ]
+    ]
+   ],
+   "cta": [
+    "Quick and",
+    "easy wins."
+   ]
+  },
+  "pm-braindump": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Try a brain dump:",
+   "title_big": [
+    "3 steps"
+   ],
+   "tips": [
+    [
+     [
+      "Write it",
+      "all down"
+     ],
+     [
+      "Every task, idea",
+      "and worry."
+     ]
+    ],
+    [
+     [
+      "Circle one"
+     ],
+     [
+      "The one thing that",
+      "matters most."
+     ]
+    ],
+    [
+     [
+      "Close the",
+      "page"
+     ],
+     [
+      "Let the rest wait",
+      "until tomorrow."
+     ]
+    ]
+   ],
+   "cta": [
+    "Clear your",
+    "head."
+   ]
+  }
+ },
+ "carousels": {
+  "frozenveg": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Frozen",
+    "veggies are",
+    "handy"
+   ],
+   "label": "Why frozen",
+   "items": [
+    [
+     [
+      "Ready to cook"
+     ],
+     [
+      "Already washed and cut."
+     ]
+    ],
+    [
+     [
+      "Lasts longer"
+     ],
+     [
+      "Keeps for months."
+     ]
+    ],
+    [
+     [
+      "Add to anything"
+     ],
+     [
+      "Soups, pasta, stir-fries."
+     ]
+    ],
+    [
+     [
+      "Stock up"
+     ],
+     [
+      "Easy to keep on hand."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save",
+    "this tip."
+   ],
+   "cta_sub": [
+    "What is your go-to frozen veggie?"
+   ]
+  }
+ },
+ "posts": {
+  "breakfastdinner": {
+   "image": "P",
+   "kicker": "Easy dinner idea",
+   "title": [
+    "Breakfast",
+    "for dinner"
+   ],
+   "body": [
+    "Eggs, fruit and toast make",
+    "a quick, cozy meal."
+   ]
+  }
+ }
+}

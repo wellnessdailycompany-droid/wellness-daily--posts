@@ -21,6 +21,19 @@ That is about 17 photos a day. Each prompt must show that scene's own idea (e.g.
 - Never use Fast, Quality, Omni, upscaling, or x2-x4 outputs.
 - Check the balance in the account menu first. If under 400 credits, skip the video (the rest is reserved for Prime Media Marketing) and do only photos.
 
+## Step 0: pick the path (do this BEFORE spending any Flow credits)
+1. Mac path: get_device_info works AND device_list_dir ~/Downloads works (Downloads is granted) AND the built-in browser opens Flow. Then use the Flow steps below.
+2. Otherwise (Mac asleep/offline, browser unreachable, or Downloads not granted): use the **cloud fallback** below. Do not generate anything in Flow you cannot pick up. Do not request folder access again if a request is already pending.
+Saving Flow images: in the Flow page, fetch(each flow-content.google image URL) -> blob -> <a download> saves the native 1K original (768x1376) without clicking through menus. The video still needs the UI: open it -> download icon -> "720p Original size".
+
+## Cloud fallback (Mac offline) — GitHub Actions + Gemini API
+Brad approved (Nov 8): when the Mac is unreachable, generate the day's photos with the Gemini API instead (paid per image, about $0.07 each with gemini-3.1-flash-image; repo variable WD_IMAGE_MODEL can switch to gemini-3.1-flash-lite-image to halve that). Photos only: NO video hook in fallback (morning Reel gets the photo reel). Needs repo secret GEMINI_API_KEY; if the done file reports a missing/invalid key, tell Brad.
+1. Write `jobs/YYYY-MM-DD.json` (format in tools/cloud_media.py docstring; `jobs/example.json` is a full example): one prompt per scene, all different, keys referenced by the reel/carousel/post specs. Names: reels `am-<topic>` / `pm-<topic>`, carousel `<topic>`, post `<topic>`.
+2. `git add jobs/YYYY-MM-DD.json && git commit && git push` to main. The push starts .github/workflows/cloud-media.yml (about 3-6 min).
+3. Poll: `git pull --rebase` every 60 s until `jobs/done/YYYY-MM-DD.json` exists (give up after 25 min and leave originals). Read it: `outputs` lists the built files per name, `errors` lists anything skipped.
+4. Look at the built files (contact sheet), confirm each raw.githubusercontent URL returns 200, then updateScheduledPost exactly as in "Swap in Metricool" (reels: IG/FB and TikTok both use `videos/DATE/<name>-photo.mp4`). Posts missing from `outputs` keep their original media.
+Pipeline test without cost: Actions -> "Cloud media" -> Run workflow with mock=true (placeholder photos, nothing committed).
+
 ## Flow steps (built-in browser on Brad's Mac)
 - Open https://labs.google/fx/tools/flow. Make sure the account menu shows bradpanassow@gmail.com (NOT wellnessdailycompany@gmail.com); switch accounts if needed. Never sign out.
 - New project. Settings menu (bottom-right chip): Image → 9:16 → Nano Banana 2.1 → x1 for photos; Video → Frames → 9:16 → Veo 3.1 - Lite → x1 (must say "10 credits") for the clip.

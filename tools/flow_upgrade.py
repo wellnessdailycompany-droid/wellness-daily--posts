@@ -26,8 +26,10 @@ CLI (see also reel/carousel below):
 import subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
 
-B = '/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf'
-R = '/usr/share/fonts/truetype/google-fonts/Poppins-Regular.ttf'
+import os as _os
+_FD = _os.environ.get('WD_FONT_DIR', '/usr/share/fonts/truetype/google-fonts')
+B = f'{_FD}/Poppins-Bold.ttf'
+R = f'{_FD}/Poppins-Regular.ttf'
 DARK = (8, 24, 26)
 MINT = (168, 230, 193)
 CREAM = (255, 247, 232)
