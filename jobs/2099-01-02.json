@@ -1,0 +1,7 @@
+{
+ "date": "2099-01-02",
+ "photos": {"P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794214237211_8281b238_1794214237306_9c6f3b16.png"},
+ "reels": {},
+ "carousels": {},
+ "posts": {"openart-test": {"image": "P", "kicker": "Pipeline test", "title": ["OpenArt", "fallback test"], "body": ["Not a real post.", "Safe to delete."]}}
+}

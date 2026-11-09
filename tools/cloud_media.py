@@ -4,6 +4,10 @@ Used when Brad's Mac (Google Flow) is asleep/offline. Runs in GitHub Actions
 (.github/workflows/cloud-media.yml), which has open internet; the Claude cloud
 workspace does not.
 
+OpenArt fallback (Brad approved Nov 9, 2026): a "photos" value may be an https:// image URL
+(e.g. https://cdn.openart.ai/...) generated beforehand through the OpenArt connector; it is
+downloaded instead of generated, so no GEMINI_API_KEY is needed. The Gemini path is not approved.
+
 Job file: jobs/YYYY-MM-DD.json
 {
   "date": "2026-11-10",
@@ -35,7 +39,17 @@ SUFFIX = (' Photo-realistic, vertical 9:16, editorial food and lifestyle photogr
           'No text, no words, no letters, no logos, no brand names, no identifiable faces.')
 
 
+def fetch_url(url, out):
+    """Download a ready-made image (e.g. an OpenArt result on cdn.openart.ai)."""
+    req = urllib.request.Request(url, headers={'User-Agent': 'wellness-daily-bot'})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        data = r.read()
+    Image.open(io.BytesIO(data)).convert('RGB').save(out, quality=92)
+
+
 def gen_photo(prompt, out):
+    if prompt.startswith('https://'):  # OpenArt fallback: photo already generated, just fetch it
+        return fetch_url(prompt, out)
     if MOCK:
         h = abs(hash(prompt)) % 360
         im = Image.new('RGB', (768, 1376), tuple(int(127 + 120 * ((h + k * 120) % 360 < 180)) for k in range(3)))
