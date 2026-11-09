@@ -41,3 +41,6 @@ updateScheduledPost with the full original post (text, times, providers, network
 
 ## Never
 - Mention AI in captions or images. Use music. Spend credits beyond the cap (1 video/day). Touch posts other than tomorrow's.
+
+## Run log
+- 2026-11-08 run (for Nov 10): Flow media generated (17 photos + 1 Veo Lite clip, 10 credits, 1,030 left) and downloaded, but ~/Downloads is NOT a connected folder for scheduled runs; the access prompt went unanswered, so nothing was staged and Nov 10 posts kept their original media. Fix: Brad approves the "allow access to Downloads" prompt once (it then persists for later runs) or connects ~/Downloads to the task. Tip: images can be saved in-page with fetch(flow-content URL) -> blob -> <a download> (native 768x1376 = 1K original); the container proxy blocks flow-content.google directly.
