@@ -1,0 +1,25 @@
+{
+ "ok": true,
+ "outputs": {
+  "pm-braindump": [
+   "videos/2026-11-10/pm-braindump-photo.mp4"
+  ],
+  "frozenveg": [
+   "images/2026-11-10-flow-frozenveg/slide1.png",
+   "images/2026-11-10-flow-frozenveg/slide2.png",
+   "images/2026-11-10-flow-frozenveg/slide3.png",
+   "images/2026-11-10-flow-frozenveg/slide4.png",
+   "images/2026-11-10-flow-frozenveg/slide5.png",
+   "images/2026-11-10-flow-frozenveg/slide6.png",
+   "images/2026-11-10-flow-frozenveg/slide1-tt.jpg",
+   "images/2026-11-10-flow-frozenveg/slide2-tt.jpg",
+   "images/2026-11-10-flow-frozenveg/slide3-tt.jpg",
+   "images/2026-11-10-flow-frozenveg/slide4-tt.jpg",
+   "images/2026-11-10-flow-frozenveg/slide5-tt.jpg",
+   "images/2026-11-10-flow-frozenveg/slide6-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 11
+}
