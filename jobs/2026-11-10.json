@@ -1,0 +1,126 @@
+{
+ "date": "2026-11-10",
+ "photos": {
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280721757_7883499b_1794280721883_69203bd7.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280734943_efdb6f58_1794280735235_d560a659.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280735432_7f9381f6_1794280735474_915a2024.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280733183_30adda6a_1794280733417_9bc4139a.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280737359_58b6c2a6_1794280737473_f147332e.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280739594_a5febef0_1794280739914_15598828.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280742475_986a89a4_1794280742657_3c581797.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280741088_b5915f76_1794280741159_34d7aacb.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280742019_203937df_1794280742423_0d84d1c1.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280801471_3e32b810_1794280801596_1ddd084d.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794280805080_c2783a02_1794280805789_e49a8053.png"
+ },
+ "reels": {
+  "pm-braindump": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Try a brain dump:",
+   "title_big": [
+    "3 steps"
+   ],
+   "tips": [
+    [
+     [
+      "Write it",
+      "all down"
+     ],
+     [
+      "Every task, idea",
+      "and worry."
+     ]
+    ],
+    [
+     [
+      "Circle one"
+     ],
+     [
+      "The one thing that",
+      "matters most."
+     ]
+    ],
+    [
+     [
+      "Close the",
+      "page"
+     ],
+     [
+      "Let the rest wait",
+      "until tomorrow."
+     ]
+    ]
+   ],
+   "cta": [
+    "Clear your",
+    "head."
+   ]
+  }
+ },
+ "carousels": {
+  "frozenveg": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Frozen",
+    "veggies are",
+    "handy"
+   ],
+   "label": "Why frozen",
+   "items": [
+    [
+     [
+      "Ready to cook"
+     ],
+     [
+      "Already washed and cut."
+     ]
+    ],
+    [
+     [
+      "Lasts longer"
+     ],
+     [
+      "Keeps for months."
+     ]
+    ],
+    [
+     [
+      "Add to anything"
+     ],
+     [
+      "Soups, pasta, stir-fries."
+     ]
+    ],
+    [
+     [
+      "Stock up"
+     ],
+     [
+      "Easy to keep on hand."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save",
+    "this tip."
+   ],
+   "cta_sub": [
+    "What is your go-to frozen veggie?"
+   ]
+  }
+ },
+ "posts": {}
+}
