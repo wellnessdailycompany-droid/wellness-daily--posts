@@ -1,0 +1,193 @@
+{
+ "date": "2026-11-11",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367130606_553b4654_1794367130706_c77b2151.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367138130_fcb69fff_1794367138339_351136e7.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367137459_f71693a4_1794367137827_e9106e3c.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367137475_32b0c526_1794367137764_f495a2d2.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367141859_382fb86b_1794367142170_1d54b379.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367141415_0d47ea3f_1794367141539_4ad56f08.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367140260_4a0a8d53_1794367140398_83c96484.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367142818_eeec9800_1794367143165_cef4b938.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367250170_34ec8cce_1794367250391_5e0fca22.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367250161_0be6e751_1794367250884_8cd9534f.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367251516_839fc077_1794367251948_5d896d2c.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367252431_a72e334a_1794367252595_09a3af76.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367253299_2b1b6426_1794367253517_68ce9302.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367252911_0ce4c355_1794367252990_cc16b0dd.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367254632_b9ee966a_1794367254710_8c556a31.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367255307_dba6eeef_1794367255501_4eacc178.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794367418223_c106d8b9_1794367418300_1df1dbf2.png"
+ },
+ "reels": {
+  "am-leftovers": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Leftovers makeover:",
+   "title_big": [
+    "3 ideas"
+   ],
+   "tips": [
+    [
+     [
+      "Make a bowl"
+     ],
+     [
+      "Pile leftovers over",
+      "rice or greens."
+     ]
+    ],
+    [
+     [
+      "Wrap it up"
+     ],
+     [
+      "Roll them in a tortilla",
+      "with fresh veggies."
+     ]
+    ],
+    [
+     [
+      "Stir into soup"
+     ],
+     [
+      "Add broth and herbs",
+      "for a cozy meal."
+     ]
+    ]
+   ],
+   "cta": [
+    "Waste less.",
+    "Enjoy more."
+   ]
+  },
+  "pm-nature": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Notice nature:",
+   "title_big": [
+    "3 things"
+   ],
+   "tips": [
+    [
+     [
+      "Look at the sky"
+     ],
+     [
+      "Clouds, color or stars",
+      "all count."
+     ]
+    ],
+    [
+     [
+      "Spot some",
+      "green"
+     ],
+     [
+      "A tree, a plant or",
+      "a patch of grass."
+     ]
+    ],
+    [
+     [
+      "Listen closely"
+     ],
+     [
+      "Birds, wind or",
+      "rustling leaves."
+     ]
+    ]
+   ],
+   "cta": [
+    "Look up.",
+    "Slow down."
+   ]
+  }
+ },
+ "carousels": {
+  "eggs": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Eggs",
+    "four ways"
+   ],
+   "label": "Egg ideas",
+   "items": [
+    [
+     [
+      "Hard boiled"
+     ],
+     [
+      "Make a batch for",
+      "grab-and-go snacks."
+     ]
+    ],
+    [
+     [
+      "Scrambled"
+     ],
+     [
+      "Fast, fluffy and",
+      "easy to customize."
+     ]
+    ],
+    [
+     [
+      "Veggie omelet"
+     ],
+     [
+      "Fold in peppers,",
+      "spinach or tomatoes."
+     ]
+    ],
+    [
+     [
+      "Poached"
+     ],
+     [
+      "Great on toast or",
+      "over a grain bowl."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save these",
+    "ideas."
+   ],
+   "cta_sub": [
+    "How do you like your eggs?"
+   ]
+  }
+ },
+ "posts": {
+  "lunch": {
+   "image": "P",
+   "kicker": "Midday habit",
+   "title": [
+    "Eat lunch away",
+    "from your desk."
+   ],
+   "body": [
+    "Step out, even for ten minutes.",
+    "Your mind will thank you."
+   ]
+  }
+ }
+}
