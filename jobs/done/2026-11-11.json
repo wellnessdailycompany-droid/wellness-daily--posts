@@ -1,0 +1,32 @@
+{
+ "ok": true,
+ "outputs": {
+  "am-leftovers": [
+   "videos/2026-11-11/am-leftovers-photo.mp4"
+  ],
+  "pm-nature": [
+   "videos/2026-11-11/pm-nature-photo.mp4"
+  ],
+  "eggs": [
+   "images/2026-11-11-flow-eggs/slide1.png",
+   "images/2026-11-11-flow-eggs/slide2.png",
+   "images/2026-11-11-flow-eggs/slide3.png",
+   "images/2026-11-11-flow-eggs/slide4.png",
+   "images/2026-11-11-flow-eggs/slide5.png",
+   "images/2026-11-11-flow-eggs/slide6.png",
+   "images/2026-11-11-flow-eggs/slide1-tt.jpg",
+   "images/2026-11-11-flow-eggs/slide2-tt.jpg",
+   "images/2026-11-11-flow-eggs/slide3-tt.jpg",
+   "images/2026-11-11-flow-eggs/slide4-tt.jpg",
+   "images/2026-11-11-flow-eggs/slide5-tt.jpg",
+   "images/2026-11-11-flow-eggs/slide6-tt.jpg"
+  ],
+  "lunch": [
+   "images/2026-11-11-flow-lunch/post.png",
+   "images/2026-11-11-flow-lunch/post-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 17
+}
