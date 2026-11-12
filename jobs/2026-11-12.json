@@ -1,0 +1,192 @@
+{
+ "date": "2026-11-12",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453519553_7231ddeb_1794453519611_eb17501d.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453520946_9571bf19_1794453521312_e1067175.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453525321_6b6c7f86_1794453525883_300a3989.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453529568_f9e55af2_1794453530000_1d7f34c1.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453537092_9866eb21_1794453537191_f1793f2d.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453527261_cd773add_1794453527524_ab925674.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453526304_b8997324_1794453526363_d194dd0b.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453536362_1e356152_1794453536495_d0337846.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453634865_00d0e762_1794453635083_b65c4b76.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453635709_6b6653d4_1794453635890_06682b50.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453634765_3b713a63_1794453634843_e0236f25.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453636799_3475e5f9_1794453637124_8516aacd.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453636363_b1756988_1794453636770_a4eca2c0.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453638108_1a77f4d1_1794453638167_c0f7e375.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453649968_0a8f5bcb_1794453650029_68fae432.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453641178_d62718f4_1794453641301_9549f6f6.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794453728684_903f7180_1794453728840_6f0d8067.png"
+ },
+ "reels": {
+  "am-singalong": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Sing along:",
+   "title_big": [
+    "3 spots"
+   ],
+   "tips": [
+    [
+     [
+      "In the shower"
+     ],
+     [
+      "Let the acoustics",
+      "do the work."
+     ]
+    ],
+    [
+     [
+      "In the car"
+     ],
+     [
+      "Turn up a favorite",
+      "and sing it out."
+     ]
+    ],
+    [
+     [
+      "While you cook"
+     ],
+     [
+      "Stir, chop and",
+      "sing along."
+     ]
+    ]
+   ],
+   "cta": [
+    "Sing it",
+    "out loud."
+   ]
+  },
+  "pm-thanks": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Send a thank-you:",
+   "title_big": [
+    "3 steps"
+   ],
+   "tips": [
+    [
+     [
+      "Pick a person"
+     ],
+     [
+      "Someone who made",
+      "your week better."
+     ]
+    ],
+    [
+     [
+      "Be specific"
+     ],
+     [
+      "Say exactly what",
+      "you appreciated."
+     ]
+    ],
+    [
+     [
+      "Send it today"
+     ],
+     [
+      "A text, a card",
+      "or a call."
+     ]
+    ]
+   ],
+   "cta": [
+    "Spread the",
+    "thanks."
+   ]
+  }
+ },
+ "carousels": {
+  "sandwich": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Sandwich",
+    "upgrades"
+   ],
+   "label": "Sandwich ideas",
+   "items": [
+    [
+     [
+      "Add veggies"
+     ],
+     [
+      "Pile on greens,",
+      "tomato and cucumber."
+     ]
+    ],
+    [
+     [
+      "Pick whole grain"
+     ],
+     [
+      "Hearty bread keeps",
+      "you full longer."
+     ]
+    ],
+    [
+     [
+      "Try hummus"
+     ],
+     [
+      "A creamy spread",
+      "full of flavor."
+     ]
+    ],
+    [
+     [
+      "Add a side"
+     ],
+     [
+      "Fruit, veggie sticks",
+      "or a small salad."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save this",
+    "for lunch."
+   ],
+   "cta_sub": [
+    "What is on your sandwich?"
+   ]
+  }
+ },
+ "posts": {
+  "smalljoys": {
+   "image": "P",
+   "kicker": "Small joys",
+   "title": [
+    "Snap a photo of",
+    "something you enjoy."
+   ],
+   "body": [
+    "A meal, a view or a friend.",
+    "Notice the good stuff."
+   ]
+  }
+ }
+}
