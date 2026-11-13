@@ -1,0 +1,195 @@
+{
+ "date": "2026-11-13",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539978827_c9f2d9ab_1794539979195_3e926ed9.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539979730_84906e8f_1794539979830_5b1a8209.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539979947_d636b8e6_1794539980221_06721418.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539989233_aa044edd_1794539989550_296eba86.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539989244_97d9c5d2_1794539989442_dcd52ad1.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539992044_2b3518d8_1794539992131_c73249ff.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539992264_e6e8d59c_1794539992486_62611cc1.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794539997436_d7103384_1794539997537_0deee469.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540133646_edcb751c_1794540133709_7a6d0013.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540128475_52bec57f_1794540128541_5deeb47c.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540132903_00842211_1794540133201_ff2af5a3.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540129665_5433ae23_1794540129817_f3d80246.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540132922_6e194728_1794540132989_af7c11f4.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540131320_beb7f459_1794540131730_eff93bec.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540131894_54a9baec_1794540132218_40b37534.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540146556_e0a84d8a_1794540146613_e9db0b5f.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/image_1794540285924_8772cedd_1794540285998_ae73aaf5.png"
+ },
+ "reels": {
+  "am-inbox": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Calm your inbox:",
+   "title_big": [
+    "3 tips"
+   ],
+   "tips": [
+    [
+     [
+      "Check 2x a day"
+     ],
+     [
+      "Pick two set times",
+      "instead of all day."
+     ]
+    ],
+    [
+     [
+      "Unsubscribe"
+     ],
+     [
+      "Drop emails you",
+      "never open."
+     ]
+    ],
+    [
+     [
+      "Touch it once"
+     ],
+     [
+      "Reply, file or delete",
+      "right away."
+     ]
+    ]
+   ],
+   "cta": [
+    "Less clutter.",
+    "More calm."
+   ]
+  },
+  "pm-pantry": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Before you shop:",
+   "title_big": [
+    "use your",
+    "pantry"
+   ],
+   "tips": [
+    [
+     [
+      "Check shelves"
+     ],
+     [
+      "See what you already",
+      "have on hand."
+     ]
+    ],
+    [
+     [
+      "Build a meal"
+     ],
+     [
+      "Combine grains, beans",
+      "and canned veggies."
+     ]
+    ],
+    [
+     [
+      "Shop the gaps"
+     ],
+     [
+      "Buy only what",
+      "is missing."
+     ]
+    ]
+   ],
+   "cta": [
+    "Save money.",
+    "Waste less."
+   ]
+  }
+ },
+ "carousels": {
+  "theme": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Theme night",
+    "dinner",
+    "ideas"
+   ],
+   "label": "Dinner idea",
+   "items": [
+    [
+     [
+      "Soup night"
+     ],
+     [
+      "Pair with",
+      "whole-grain toast."
+     ]
+    ],
+    [
+     [
+      "Taco night"
+     ],
+     [
+      "Load up on veggies",
+      "and beans."
+     ]
+    ],
+    [
+     [
+      "Pasta night"
+     ],
+     [
+      "Add greens and",
+      "lean protein."
+     ]
+    ],
+    [
+     [
+      "Bowl night"
+     ],
+     [
+      "Grain, veggies,",
+      "your pick."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save this",
+    "for your",
+    "week."
+   ],
+   "cta_sub": [
+    "Which night is yours?"
+   ]
+  }
+ },
+ "posts": {
+  "wake": {
+   "image": "P",
+   "kicker": "Morning tip",
+   "title": [
+    "Try a gentle",
+    "wake-up."
+   ],
+   "body": [
+    "Soft light and a slow stretch",
+    "beat a loud alarm start."
+   ]
+  }
+ }
+}
