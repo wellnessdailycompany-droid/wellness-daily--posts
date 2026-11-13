@@ -1,0 +1,32 @@
+{
+ "ok": true,
+ "outputs": {
+  "am-inbox": [
+   "videos/2026-11-13/am-inbox-photo.mp4"
+  ],
+  "pm-pantry": [
+   "videos/2026-11-13/pm-pantry-photo.mp4"
+  ],
+  "theme": [
+   "images/2026-11-13-flow-theme/slide1.png",
+   "images/2026-11-13-flow-theme/slide2.png",
+   "images/2026-11-13-flow-theme/slide3.png",
+   "images/2026-11-13-flow-theme/slide4.png",
+   "images/2026-11-13-flow-theme/slide5.png",
+   "images/2026-11-13-flow-theme/slide6.png",
+   "images/2026-11-13-flow-theme/slide1-tt.jpg",
+   "images/2026-11-13-flow-theme/slide2-tt.jpg",
+   "images/2026-11-13-flow-theme/slide3-tt.jpg",
+   "images/2026-11-13-flow-theme/slide4-tt.jpg",
+   "images/2026-11-13-flow-theme/slide5-tt.jpg",
+   "images/2026-11-13-flow-theme/slide6-tt.jpg"
+  ],
+  "wake": [
+   "images/2026-11-13-flow-wake/post.png",
+   "images/2026-11-13-flow-wake/post-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 17
+}
