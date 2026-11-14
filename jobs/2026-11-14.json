@@ -1,0 +1,197 @@
+{
+ "date": "2026-11-14",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626320368a6a4fa205cad9389410edbf7cc69b7de7df437_1794626341522_5f041c92.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626322410eed3fa2be8288e45c6ad198b6ab1561a775342_1794626340645_0349f8ec.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626323405b965c2d2b2bb89ed3e2dfeb918ea3f764e2933_1794626349679_d1d4353f.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946263244228547934892c4038781a87d514f9a9196d0a59f_1794626347124_244ce995.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946263254303c1f91f892e9aff2a902d86b047fe24223d924_1794626351722_e792904c.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946263254158cdbdac5f420e20fe0e1829640806a2293470f_1794626343085_6c01c5d5.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626328395b1e926b94f741badb049b6681cf829b8a7ce47_1794626349783_0aaab492.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626329012b1e926b94f741badb049b6681cf829b8e7c9a3_1794626342296_a97b2406.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946264089215b3fa2cdc51ddff2be86c78e2baff5d77bda55_1794626426172_c8f696b2.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179462641048175b38901b7d222b45cd0632cd2ab017173a3c3_1794626432237_dfd0e5db.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946264113475d6d8f07cf2a752c74db4b42ef6a643ee5c88b_1794626436172_cdfe97a9.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626411879904c389cfd819598df3df498c1c521896410c5_1794626427302_c312e94a.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179462641303335b29c922ac7ba22cc26b6e12169d213c6b9c7_1794626424227_4f961939.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794626413981c41b39946b92a3163d51611244fc4a0df5cf72_1794626432213_19359304.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946264147702b8720b6d986e81ce95e9b006de0a2cbf370fe_1794626442198_059b61bc.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179462641588440df8d8926005c369421892d4819382e48b1fc_1794626440091_8ed200c2.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217946264959009ded32e803badef81244c2c5f5c7f1be2ca741_1794626517778_d7c2360c.png"
+ },
+ "reels": {
+  "am-rainy": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Rainy day",
+   "title_big": [
+    "ideas"
+   ],
+   "tips": [
+    [
+     [
+      "Cook a soup"
+     ],
+     [
+      "Warm, simple and",
+      "good for leftovers."
+     ]
+    ],
+    [
+     [
+      "Stretch indoors"
+     ],
+     [
+      "A few slow moves",
+      "loosen up the day."
+     ]
+    ],
+    [
+     [
+      "Read or listen"
+     ],
+     [
+      "Pick a book or a",
+      "show you love."
+     ]
+    ]
+   ],
+   "cta": [
+    "Cozy and",
+    "calm."
+   ]
+  },
+  "pm-sip": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Try a slow sip:",
+   "title_big": [
+    "3 steps"
+   ],
+   "tips": [
+    [
+     [
+      "Warm your cup"
+     ],
+     [
+      "Hold it with both",
+      "hands for a moment."
+     ]
+    ],
+    [
+     [
+      "Pause, breathe"
+     ],
+     [
+      "Take one slow breath",
+      "before the first sip."
+     ]
+    ],
+    [
+     [
+      "No screens"
+     ],
+     [
+      "Five quiet minutes,",
+      "just you and your cup."
+     ]
+    ]
+   ],
+   "cta": [
+    "Slow down.",
+    "Sip."
+   ]
+  }
+ },
+ "carousels": {
+  "pairs": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Fruit and",
+    "nut pairs"
+   ],
+   "label": "Snack pair",
+   "items": [
+    [
+     [
+      "Apple slices",
+      "+ almond butter"
+     ],
+     [
+      "Sweet, crunchy",
+      "and filling."
+     ]
+    ],
+    [
+     [
+      "Banana",
+      "+ walnuts"
+     ],
+     [
+      "A quick, easy",
+      "handful."
+     ]
+    ],
+    [
+     [
+      "Pear",
+      "+ pecans"
+     ],
+     [
+      "Great for an",
+      "afternoon snack."
+     ]
+    ],
+    [
+     [
+      "Orange",
+      "+ cashews"
+     ],
+     [
+      "Bright, fresh",
+      "and simple."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save these",
+    "snack",
+    "pairs."
+   ],
+   "cta_sub": [
+    "Which will you try?"
+   ]
+  }
+ },
+ "posts": {
+  "note": {
+   "image": "P",
+   "kicker": "Kind to future you",
+   "title": [
+    "Leave a note",
+    "for tomorrow."
+   ],
+   "body": [
+    "Write one thing you will",
+    "thank yourself for."
+   ]
+  }
+ }
+}
