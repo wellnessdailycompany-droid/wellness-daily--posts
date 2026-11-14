@@ -1,0 +1,32 @@
+{
+ "ok": true,
+ "outputs": {
+  "am-rainy": [
+   "videos/2026-11-14/am-rainy-photo.mp4"
+  ],
+  "pm-sip": [
+   "videos/2026-11-14/pm-sip-photo.mp4"
+  ],
+  "pairs": [
+   "images/2026-11-14-flow-pairs/slide1.png",
+   "images/2026-11-14-flow-pairs/slide2.png",
+   "images/2026-11-14-flow-pairs/slide3.png",
+   "images/2026-11-14-flow-pairs/slide4.png",
+   "images/2026-11-14-flow-pairs/slide5.png",
+   "images/2026-11-14-flow-pairs/slide6.png",
+   "images/2026-11-14-flow-pairs/slide1-tt.jpg",
+   "images/2026-11-14-flow-pairs/slide2-tt.jpg",
+   "images/2026-11-14-flow-pairs/slide3-tt.jpg",
+   "images/2026-11-14-flow-pairs/slide4-tt.jpg",
+   "images/2026-11-14-flow-pairs/slide5-tt.jpg",
+   "images/2026-11-14-flow-pairs/slide6-tt.jpg"
+  ],
+  "note": [
+   "images/2026-11-14-flow-note/post.png",
+   "images/2026-11-14-flow-note/post-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 17
+}
