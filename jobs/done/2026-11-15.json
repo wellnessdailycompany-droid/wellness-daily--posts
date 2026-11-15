@@ -1,0 +1,32 @@
+{
+ "ok": true,
+ "outputs": {
+  "am-podcast": [
+   "videos/2026-11-15/am-podcast-photo.mp4"
+  ],
+  "pm-share": [
+   "videos/2026-11-15/pm-share-photo.mp4"
+  ],
+  "weekend": [
+   "images/2026-11-15-flow-weekend/slide1.png",
+   "images/2026-11-15-flow-weekend/slide2.png",
+   "images/2026-11-15-flow-weekend/slide3.png",
+   "images/2026-11-15-flow-weekend/slide4.png",
+   "images/2026-11-15-flow-weekend/slide5.png",
+   "images/2026-11-15-flow-weekend/slide6.png",
+   "images/2026-11-15-flow-weekend/slide1-tt.jpg",
+   "images/2026-11-15-flow-weekend/slide2-tt.jpg",
+   "images/2026-11-15-flow-weekend/slide3-tt.jpg",
+   "images/2026-11-15-flow-weekend/slide4-tt.jpg",
+   "images/2026-11-15-flow-weekend/slide5-tt.jpg",
+   "images/2026-11-15-flow-weekend/slide6-tt.jpg"
+  ],
+  "question": [
+   "images/2026-11-15-flow-question/post.png",
+   "images/2026-11-15-flow-question/post-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 17
+}
