@@ -1,0 +1,195 @@
+{
+ "date": "2026-11-15",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947127578096ac55f1ae722766e84a3a1d53b37ba2da6b0d2_1794712776585_db49d3df.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712758882a6a4fa205cad9389410edbf7cc69b7de35c0c3_1794712781500_40fd66c3.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712760841a25d9fd8bbdfc574a90b55d3ae211a62b2b1a7_1794712774593_77b2c3ad.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179471276148299a3f43520201fc0164769d66e52699fb14c19_1794712780630_4d2c7642.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712761760a0b324f8ecfaf9ce03201b1eca3b66d8c2f171_1794712780655_075f6c8b.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712763518f0a583d75381f7c0a662383f3247915ec6d6fa_1794712787226_27745796.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179471276452096d528c8df2143421f3e331d7739c2b1dbd0f3_1794712790668_81233348.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712766337fdccfc102ca12157f94275e78054dc3bee0ce5_1794712787193_131397d2.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947128529444e5823ec317b6ea9d3f5e181cf6332a5ab764c_1794712872742_3a948af0.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712854394f419ea1e39f9dd10a4a699a297e9c9a171ac33_1794712864361_b1908723.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712856406a56759b1655b332d491b27841bc4d04111621d_1794712876847_3f42c624.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712856394c2670fe791a5f29d61bdea8e0ada6c5d43e258_1794712873235_801ae109.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712858378f39d09b715cb307c823cd4ff1a5ec1ab6786a9_1794712884373_075b164a.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947128583687701a42f23cc3d37ac47a8e8735f343a34e50c_1794712881764_9791450c.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712859921fea0cb63916d8b7cee037e8f30dc2746b7a91b_1794712883947_125b927f.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794712860820ba082e75ad6045f729531cc716e805ece4a6cd_1794712880465_3938863f.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179471292294625f2f82b7160c183ba98a715c9386d719c5bb1_1794712945124_3788cbe2.png"
+ },
+ "reels": {
+  "am-podcast": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Podcast walk:",
+   "title_big": [
+    "3 steps"
+   ],
+   "tips": [
+    [
+     [
+      "Pick a topic"
+     ],
+     [
+      "Find a show you",
+      "can't wait to hear."
+     ]
+    ],
+    [
+     [
+      "Lace up"
+     ],
+     [
+      "Comfy shoes, then",
+      "head out the door."
+     ]
+    ],
+    [
+     [
+      "Walk and listen"
+     ],
+     [
+      "Ten minutes is a",
+      "great start."
+     ]
+    ]
+   ],
+   "cta": [
+    "Press play.",
+    "Walk."
+   ]
+  },
+  "pm-share": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "Share a meal:",
+   "title_big": [
+    "3 ideas"
+   ],
+   "tips": [
+    [
+     [
+      "Invite someone"
+     ],
+     [
+      "A friend, neighbor",
+      "or family member."
+     ]
+    ],
+    [
+     [
+      "Keep it simple"
+     ],
+     [
+      "Soup, pasta or a",
+      "big shared salad."
+     ]
+    ],
+    [
+     [
+      "Phones away"
+     ],
+     [
+      "Eat together",
+      "and connect."
+     ]
+    ]
+   ],
+   "cta": [
+    "Pull up",
+    "a chair."
+   ]
+  }
+ },
+ "carousels": {
+  "weekend": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Slow weekend",
+    "mornings"
+   ],
+   "label": "Idea",
+   "items": [
+    [
+     [
+      "Stroll outside"
+     ],
+     [
+      "Fresh air and an",
+      "easy pace."
+     ]
+    ],
+    [
+     [
+      "Cook something",
+      "fun"
+     ],
+     [
+      "Pancakes, eggs or",
+      "a new recipe."
+     ]
+    ],
+    [
+     [
+      "Read a",
+      "few pages"
+     ],
+     [
+      "Coffee in hand,",
+      "no rush."
+     ]
+    ],
+    [
+     [
+      "Stretch it out"
+     ],
+     [
+      "Loosen up with a",
+      "few slow moves."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save these",
+    "weekend",
+    "ideas."
+   ],
+   "cta_sub": [
+    "How is your weekend?"
+   ]
+  }
+ },
+ "posts": {
+  "question": {
+   "image": "P",
+   "kicker": "Stay curious",
+   "title": [
+    "Ask one new",
+    "question today."
+   ],
+   "body": [
+    "Curiosity keeps every day",
+    "a little more interesting."
+   ]
+  }
+ }
+}
