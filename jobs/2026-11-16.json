@@ -1,0 +1,194 @@
+{
+ "date": "2026-11-16",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947991393599cf4adffd4482a40b9bfd1b5a653f2348d9f2d_1794799168652_3a985906.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947991407274b0734cede0d35a658963f07bc220d4bc65477_1794799152798_ae666a3f.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947991422635b7c5d80188542749d9bf0e4ecbfb37fc34c98_1794799155532_bd3cb8a6.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179479914135461de39c93fac111732577779cd31798957089e_1794799160991_cabb54ea.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947991438401f48ceb9aa55112abbdf6fec19339eb3aa44e8_1794799164958_4a7bc8e2.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947991443760eb6750cc7dc4c5e11333efa00d940ee71b526_1794799159532_e06e1f98.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794799144845a81c77d48bc6ef475723297888da3516d2703e_1794799163146_6b9a5d54.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179479914584985fbb282d67f6232524942e9d2086bad9d58fa_1794799166768_2aa45b91.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947992390050d9bd7330cfa68208494cd13d7460bbaeff094_1794799255829_d05f17b5.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794799242386a6a4fa205cad9389410edbf7cc69b7deb4042d_1794799254778_88e43d35.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794799241931f0a583d75381f7c0a662383f3247915e52f2a2_1794799263927_ceec5f05.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794799243075df1fe1cc6cb558c8468775817e951d5d207d2a_1794799262767_819bbe9c.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021794799243844c305af2c12e62e554ff5b6f08b2a8ff7a4cc3f_1794799263217_de91d389.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947992465514883e653edd60bc78b7b920f959874d97a13c5_1794799272557_3ea70b85.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947992464877afbd658227445da69c5198dc2d1b7087c3255_1794799266577_069d00e2.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947992469269cf4adffd4482a40b9bfd1b5a653f2342d73f4_1794799267550_cda839a0.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217947993804473c1f91f892e9aff2a902d86b047fe242eebf0a_1794799392999_e69de69b.png"
+ },
+ "reels": {
+  "am-bed": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Start with a win:",
+   "title_big": [
+    "Make",
+    "your bed"
+   ],
+   "tips": [
+    [
+     [
+      "Smooth sheets"
+     ],
+     [
+      "Smooth the bottom sheet",
+      "and straighten the top."
+     ]
+    ],
+    [
+     [
+      "Fluff pillows"
+     ],
+     [
+      "Give them a quick shake",
+      "and stack them."
+     ]
+    ],
+    [
+     [
+      "Fold blanket"
+     ],
+     [
+      "Lay it neatly at",
+      "the foot of the bed."
+     ]
+    ]
+   ],
+   "cta": [
+    "Small win.",
+    "Big start."
+   ]
+  },
+  "pm-kettle": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "While the kettle boils:",
+   "title_big": [
+    "3 stretches"
+   ],
+   "tips": [
+    [
+     [
+      "Reach up high"
+     ],
+     [
+      "Lift both arms and",
+      "stretch tall."
+     ]
+    ],
+    [
+     [
+      "Roll shoulders"
+     ],
+     [
+      "Slow circles, forward",
+      "then back."
+     ]
+    ],
+    [
+     [
+      "Side bend"
+     ],
+     [
+      "Gentle, one side",
+      "then the other."
+     ]
+    ]
+   ],
+   "cta": [
+    "Stretch.",
+    "Then sip."
+   ]
+  }
+ },
+ "carousels": {
+  "snackbag": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Snack ideas",
+    "for your",
+    "bag"
+   ],
+   "label": "Snack idea",
+   "items": [
+    [
+     [
+      "Nuts and seeds"
+     ],
+     [
+      "A small handful",
+      "is easy to carry."
+     ]
+    ],
+    [
+     [
+      "Fresh fruit"
+     ],
+     [
+      "Apples, bananas and",
+      "clementines travel well."
+     ]
+    ],
+    [
+     [
+      "Crackers"
+     ],
+     [
+      "Whole-grain, with cheese",
+      "or hummus."
+     ]
+    ],
+    [
+     [
+      "Veggie sticks"
+     ],
+     [
+      "Carrots and celery",
+      "stay crunchy."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Pack one",
+    "tomorrow."
+   ],
+   "cta_sub": [
+    "Which will you try?"
+   ]
+  }
+ },
+ "posts": {
+  "checkin": {
+   "image": "P",
+   "kicker": "Mindful moment",
+   "title": [
+    "Pause and ask:",
+    "How am I feeling?"
+   ],
+   "body": [
+    "Take one slow breath",
+    "and notice, no judging."
+   ]
+  }
+ }
+}
