@@ -40,8 +40,11 @@ Account: Brad's OpenArt Plus account via the OpenArt connector (tools mcp__OpenA
 - Set the prompt with form_input on the "What do you want to create?" textbox, then click the arrow.
 - Photo prompts: photo-realistic, vertical, editorial food/lifestyle style, matching the post's topic, "no text, no logos, no brand names", no identifiable faces.
 - Video prompt: fast, energetic, appetizing or calming motion matching the Reel's topic, "no text, no faces".
-- Download: open the item → download icon → video "720p Original size", image "1K Original size" (never the upscaled options).
-- Downloads land in ~/Downloads as hidden temp names (.Q6L2SF6YDW.com.anthropic.claudefordesktop.*). Find the newest by mtime with device_list_dir, then device_stage_files it.
+- **Get the files WITHOUT browser downloads (Brad allowed flow-content.google on Nov 16, 2026; no download clicks, no ~/Downloads needed):** Flow media URLs are pre-signed (`https://flow-content.google/image|video/<id>?Expires=...&Signature=...`, valid ~6 h), so the cloud container fetches them directly with curl.
+  - Photos: in the project grid the tiles are 286x512 thumbnails (`flow.google.com/asb/...`). Right after generation the grid `<img>` src is usually already the full `flow-content.google/image/...` URL (768x1376 = 1K original); otherwise open each item (click the tile) and read the `<img>` whose src contains `flow-content.google/image/`. Collect the URLs with javascript_tool, then `curl -o pNN.jpg URL` in the container.
+  - Video: open the clip and read `document.querySelector('video').currentSrc` (`flow-content.google/video/...`, 720x1280 = the "720p Original size" file). curl it.
+  - Verified Nov 16: both curl copies were byte-identical to the manual 1K / 720p downloads.
+- Fallback only if curl to flow-content.google is refused: browser download (item → download icon → video "720p Original size", image "1K Original size"); files land in ~/Downloads as hidden temp names (.Q6L2SF6YDW.com.anthropic.claudefordesktop.*) and each one may need Brad to approve the download; find newest by mtime with device_list_dir, then device_stage_files.
 
 ## Build (cloud container)
 `python3 tools/flow_upgrade.py hook CLIP REEL "Line one" "line two?" OUT.mp4` (hook text = the Reel's title as a question or punchy 2-line hook, each line ≤ 12 chars)
