@@ -15,11 +15,14 @@ Get the wording from the scheduled post's caption and alt text (alt text lists s
 - Simple post: 1 photo.
 That is about 17 photos a day. Each prompt must show that scene's own idea (e.g. tip "Pick one pan" → one skillet on a stove; tip "Chop while it heats" → hands chopping vegetables), with varied angles and settings so the set doesn't look repetitive. Before building, check the `images` lists have no duplicates. If a photo fails to generate, generate a new one; only reuse as a last resort, and say so in the summary.
 
-## Credit rules (Flow account bradpanassow@gmail.com, Google AI Pro) — protect credits for Prime Media Marketing
+## Which Flow account (Brad, Nov 16 2026): use whichever signed-in account has the paid plan / more credits
+Both bradpanassow@gmail.com and wellnessdailycompany@gmail.com are signed in to Flow. Check the credit balance on each (account menu → Switch account; never sign out) and use the one with more credits. As of Nov 16: bradpanassow = Google AI Pro, ~1,030 credits; wellnessdailycompany = free, 50 credits → use bradpanassow. If Brad later subscribes wellnessdailycompany, it will win automatically. If neither account can be used, tell Brad and he will switch the subscription.
+
+## Credit rules — protect bradpanassow credits for Prime Media Marketing
 - Images (Nano Banana 2.1) cost 0 credits. Veo 3.1 Lite video = 10 credits.
 - Exactly ONE video generation per day, no retries (max 10 credits/day, about 300/month). If the clip is unusable, skip the hook and post the photo reel.
 - Never use Fast, Quality, Omni, upscaling, or x2-x4 outputs.
-- Check the balance in the account menu first. If under 400 credits, skip the video (the rest is reserved for Prime Media Marketing) and do only photos.
+- Check the balance in the account menu first. On bradpanassow@gmail.com: if under 400 credits, skip the video (the rest is reserved for Prime Media Marketing) and do only photos. On wellnessdailycompany@gmail.com (Wellness Daily's own credits): skip the video only if under 10 credits.
 
 ## Step 0: pick the path (do this BEFORE generating anything)
 1. **Mac path (first choice, free photos):** get_device_info works AND device_list_dir /Users/brad.prime/Downloads works AND the built-in browser opens Flow. Then use the Flow steps below.
@@ -35,7 +38,7 @@ Account: Brad's OpenArt Plus account via the OpenArt connector (tools mcp__OpenA
 5. Summary to Brad: "OpenArt backup ran", photos made, credits used and balance left.
 
 ## Flow steps (built-in browser on Brad's Mac)
-- Open https://labs.google/fx/tools/flow. Make sure the account menu shows bradpanassow@gmail.com (NOT wellnessdailycompany@gmail.com); switch accounts if needed. Never sign out.
+- Open https://labs.google/fx/tools/flow. Pick the account per "Which Flow account" above (currently bradpanassow@gmail.com); switch accounts if needed. Never sign out.
 - New project. Settings menu (bottom-right chip): Image → 9:16 → Nano Banana 2.1 → x1 for photos; Video → Frames → 9:16 → Veo 3.1 - Lite → x1 (must say "10 credits") for the clip.
 - Set the prompt with form_input on the "What do you want to create?" textbox, then click the arrow.
 - Photo prompts: photo-realistic, vertical, editorial food/lifestyle style, matching the post's topic, "no text, no logos, no brand names", no identifiable faces.
