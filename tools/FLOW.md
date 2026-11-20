@@ -17,6 +17,7 @@ That is about 17 photos a day. Each prompt must show that scene's own idea (e.g.
 
 ## Which Flow account (Brad, Nov 16 2026): use whichever signed-in account has the paid plan / more credits
 Both bradpanassow@gmail.com and wellnessdailycompany@gmail.com are signed in to Flow. Check the credit balance on each (account menu → Switch account; never sign out) and use the one with more credits. As of Nov 16: bradpanassow = Google AI Pro, ~1,030 credits; wellnessdailycompany = free, 50 credits → use bradpanassow. If Brad later subscribes wellnessdailycompany, it will win automatically. If neither account can be used, tell Brad and he will switch the subscription.
+**Brad (Nov 19 2026):** the Pro account (bradpanassow@gmail.com, ~1,000 credits) is the one to use; wellnessdailycompany's 50 daily free credits don't matter. Go straight to bradpanassow (switch via AccountChooser if Flow opens on the other account) and only check its balance; no need to compare the two accounts.
 
 ## Credit rules — protect bradpanassow credits for Prime Media Marketing
 - Images (Nano Banana 2.1) cost 0 credits. Veo 3.1 Lite video = 10 credits.
