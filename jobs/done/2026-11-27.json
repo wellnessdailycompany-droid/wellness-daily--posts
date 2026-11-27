@@ -1,0 +1,32 @@
+{
+ "ok": true,
+ "outputs": {
+  "shop-breaks": [
+   "videos/2026-11-27/shop-breaks-photo.mp4"
+  ],
+  "evening-tidy": [
+   "videos/2026-11-27/evening-tidy-photo.mp4"
+  ],
+  "greens": [
+   "images/2026-11-27-flow-greens/slide1.png",
+   "images/2026-11-27-flow-greens/slide2.png",
+   "images/2026-11-27-flow-greens/slide3.png",
+   "images/2026-11-27-flow-greens/slide4.png",
+   "images/2026-11-27-flow-greens/slide5.png",
+   "images/2026-11-27-flow-greens/slide6.png",
+   "images/2026-11-27-flow-greens/slide1-tt.jpg",
+   "images/2026-11-27-flow-greens/slide2-tt.jpg",
+   "images/2026-11-27-flow-greens/slide3-tt.jpg",
+   "images/2026-11-27-flow-greens/slide4-tt.jpg",
+   "images/2026-11-27-flow-greens/slide5-tt.jpg",
+   "images/2026-11-27-flow-greens/slide6-tt.jpg"
+  ],
+  "candle": [
+   "images/2026-11-27-flow-candle/post.png",
+   "images/2026-11-27-flow-candle/post-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 17
+}
