@@ -1,0 +1,194 @@
+{
+ "date": "2026-11-27",
+ "photos": {
+  "A1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749557142a25d9fd8bbdfc574a90b55d3ae211a62cf6cd0_1795749577388_ecf3abe9.png",
+  "A2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179574955783945ed1e5750293ff098e8b34eca79d24a62f451_1795749571695_5eaf98da.png",
+  "A3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749558856df1fe1cc6cb558c8468775817e951d5d8a21a0_1795749569277_fcc43e32.png",
+  "A4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749559968ba082e75ad6045f729531cc716e805ec346928_1795749579377_16002743.png",
+  "A5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217957495605520f20bbdfc8ca54d9bbb0533a8546905c556cb8_1795749570637_169610e7.png",
+  "B1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/0217957495619349ded32e803badef81244c2c5f5c7f1beabdd99_1795749585719_565b6dc0.png",
+  "B2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749562933fd2e0ebdb3eb064cbe39fbfe58bf7263856814_1795749579203_1888908d.png",
+  "B3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179574956414285f4608cdee6bbc8f8aaf952504d48fd6c7f8e_1795749580700_43f8662f.png",
+  "B4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749672740c323afa74840446e61be924aaf3459ee767ad1_1795749689468_d68dc688.png",
+  "B5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179574967377128c256f90ee836450e608b7d1b1192f3ccced6_1795749693328_f5b3e35e.png",
+  "C1": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749674759c0a335079e7be4c79ef57584e00819bab7829a_1795749685576_172b16d1.png",
+  "C2": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749675781aaaf13501739a5ff290af8d9343e27fc667be7_1795749688880_48bc7b0f.png",
+  "C3": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749676745641a02d40a43d449f07de84c480b390da058bd_1795749694114_84356bc7.png",
+  "C4": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749677791e9db803be2da2d1fb0370cddd09ba5d6551ee7_1795749684846_c1ee6102.png",
+  "C5": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795749679258dbab82a5e050003614ff9828ffe9bef25aff5b_1795749690500_18fa6045.png",
+  "C6": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179574968078933f1a7c43c44499172059af1828f5943596a97_1795749700662_64c55722.png",
+  "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/02179574984392812014becacfaf8a37949eaec3c813975770713_1795749867977_bf939db1.png"
+ },
+ "reels": {
+  "shop-breaks": {
+   "images": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+   ],
+   "title_small": "Shopping day breaks:",
+   "title_big": [
+    "3 tips"
+   ],
+   "tips": [
+    [
+     [
+      "Sip water"
+     ],
+     [
+      "Keep a bottle in",
+      "your bag."
+     ]
+    ],
+    [
+     [
+      "Sit a minute"
+     ],
+     [
+      "Rest your feet and",
+      "take a breath."
+     ]
+    ],
+    [
+     [
+      "Step outside"
+     ],
+     [
+      "Fresh air can help",
+      "you reset."
+     ]
+    ]
+   ],
+   "cta": [
+    "Shop calm.",
+    "Take breaks."
+   ]
+  },
+  "evening-tidy": {
+   "images": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+   ],
+   "title_small": "5-minute",
+   "title_big": [
+    "evening",
+    "tidy"
+   ],
+   "tips": [
+    [
+     [
+      "Clear surfaces"
+     ],
+     [
+      "Put things back where",
+      "they belong."
+     ]
+    ],
+    [
+     [
+      "Quick sweep"
+     ],
+     [
+      "One room, two minutes."
+     ]
+    ],
+    [
+     [
+      "Prep tomorrow"
+     ],
+     [
+      "Lay out clothes and",
+      "your water bottle."
+     ]
+    ]
+   ],
+   "cta": [
+    "Tidy now.",
+    "Rest easy."
+   ]
+  }
+ },
+ "carousels": {
+  "greens": {
+   "images": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6"
+   ],
+   "cover": [
+    "Hearty",
+    "winter",
+    "greens"
+   ],
+   "label": "Winter greens",
+   "items": [
+    [
+     [
+      "Kale"
+     ],
+     [
+      "Massage it for salads",
+      "or crisp it in the oven."
+     ]
+    ],
+    [
+     [
+      "Spinach"
+     ],
+     [
+      "Wilt into soups, eggs",
+      "and pasta."
+     ]
+    ],
+    [
+     [
+      "Collard greens"
+     ],
+     [
+      "Simmer or use as",
+      "a sandwich wrap."
+     ]
+    ],
+    [
+     [
+      "Swiss chard"
+     ],
+     [
+      "Saute with garlic",
+      "and a little lemon."
+     ]
+    ]
+   ],
+   "cta_big": [
+    "Save this",
+    "for dinner."
+   ],
+   "cta_sub": [
+    "Which green will you try?"
+   ]
+  }
+ },
+ "posts": {
+  "candle": {
+   "image": "P",
+   "kicker": "Quiet moment",
+   "title": [
+    "Light a candle",
+    "and enjoy",
+    "the quiet."
+   ],
+   "body": [
+    "Two minutes of calm",
+    "can reset your evening."
+   ]
+  }
+ }
+}
