@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-28",
+  "photos": {
+    "P": "https://cdn.openart.ai/openart-ai/production/2026-11/create-image/1LpKxT3JLG0oJKq0dGlH/021795835928781d4c69f90bdf814940b1abafd46c62ec6e03e13_1795835941625_955d3223.png"
+  },
+  "reels": {},
+  "carousels": {},
+  "posts": {
+    "quote": {
+      "image": "P",
+      "kicker": "Little spark",
+      "title": ["Write down a", "favorite quote", "today."],
+      "body": ["Keep it where you", "will see it often."]
+    }
+  }
+}
