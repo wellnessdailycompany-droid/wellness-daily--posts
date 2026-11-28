@@ -1,0 +1,12 @@
+{
+ "ok": true,
+ "outputs": {
+  "quote": [
+   "images/2026-11-28-flow-quote/post.png",
+   "images/2026-11-28-flow-quote/post-tt.jpg"
+  ]
+ },
+ "errors": [],
+ "model": "gemini-3.1-flash-image",
+ "photos_generated": 1
+}
